@@ -1,0 +1,5 @@
+This directory serves as a repository for code snippets expressly dedicated to the exploration of SOAP implementation using PHP. Within this collection, a significant portion of the code has been borrowed from an external source and subsequently refined to align with the nuances of my development environment.
+
+It's crucial to emphasize that the code housed in this directory has undergone alterations from its original source. The intellectual property rights for the initial version remain reserved for the original author, and due credit is attributed to the source: https://deltastateonline.github.io/soap.tutorial/.
+
+The decision to select this particular source stems from an exhaustive investigation into SOAP implementation using PHP across various online sources. This source distinguished itself by offering functional code especially for PHP 7 and earlier. As the time this document is written, the updated version of PHP is PHP 8.1. However, to address challenges identified in alternative source codes, particularly related to WSDL and XML parsing, the code has been subject to minor adjustments and modifications.
